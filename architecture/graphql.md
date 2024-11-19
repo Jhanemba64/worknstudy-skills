@@ -11,7 +11,7 @@
 - la définition d'un schéma ✔️
 - Query ✔️
 - Mutation ✔️
-- Subscription ❌ / ✔️
+- Subscription ❌ 
 
 ## 💻 J'utilise
 
